@@ -1,0 +1,11 @@
+{
+  "name": "helloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mwz",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
